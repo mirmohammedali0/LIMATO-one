@@ -229,6 +229,20 @@ opacity: 0.3;
      border-radius: 10px;
      cursor: pointer;
  }
+.sub {
+    padding: 4px 272px;
+    border: 2px solid white;
+    background-color: rgb(27, 7, 7);
+    color: white;
+    margin: 17px;
+    font-size: 1.5rem;
+    border-radius: 19px;
+    cursor: pointer;
+    text-align: center;
+    justify-content: center;
+  
+  
+}
 
  .centre {
      text-align: center;
